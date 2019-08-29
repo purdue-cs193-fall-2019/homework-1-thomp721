@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-# Eric Thompson's First CS193 Homework
+# Eric Thompson's First CS193 Homework 
 
 - We get to learn about the class from students that have experience doing what we are doing
 - The tips we learn will help us throughout the year and in the future
