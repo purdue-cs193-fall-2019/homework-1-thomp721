@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+# Eric Thompson's First CS193 Homework
+
+- We get to learn about the class from students that have experience doing what we are doing
+- The tips we learn will help us throughout the year and in the future
+- This class will hopefully help boost my GPA
+- Learning about computer science is fun
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
